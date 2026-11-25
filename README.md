@@ -21,15 +21,7 @@
 
 ### 🧬 About Me
 
-I am a **Full Stack Software Engineer** focused on building production-grade web systems, resilient backend APIs, and performant user interfaces.
-
-- 💼 **Current Role:** Full Stack Software Engineer at **Help Infinite**, engineering end-to-end features, distributed caching, and microservice APIs.
-- 🚀 **Past Experience:** Software Development Intern at **Suvrin Technologies**, delivering production-ready web apps for North American enterprise clients.
-- 🎓 **Education:** B.Tech in Computer Science & Engineering (2021 – 2025).
-- 🧠 **Algorithmic Problem Solving:** Solved **420+ challenges** on LeetCode with a 365-day consistency badge.
-- 💡 **Engineering Philosophy:** Clean relational schemas, sub-100ms response targets, type-safe architectures, and seamless user experiences.
-
----
+I am a **Full Stack Developer** focused on building production-grade web systems, resilient backend APIs, and performant user interfaces.
 
 ### 🛠️ Technical Arsenal
 
