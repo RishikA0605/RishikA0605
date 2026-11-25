@@ -20,8 +20,8 @@
 ---
 
 ### 🧬 About Me
-
-I am a **Full Stack Developer** focused on building production-grade web systems, resilient backend APIs, and performant user interfaces.
+ 
+I am a **Full Stack Developer** specializing in engineering scalable web applications, robust backend systems, and high-performance solutions. Focused on software architecture, clean code, and delivering reliable, production-ready applications that solve real-world business challenges.
 
 ### 🛠️ Technical Arsenal
 
