@@ -119,6 +119,6 @@ I am a **Full Stack Software Engineer** focused on building production-grade web
 ---
 
 <!-- DYNAMIC FOOTER WAVE -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
-</div>
+</div> -->
