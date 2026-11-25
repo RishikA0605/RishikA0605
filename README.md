@@ -1,20 +1,6 @@
 <div align="center">
   <h1>Rishika Raj</h1>
   <p><i>Full Stack Software Engineer • Architecting intuitive interfaces, high-throughput APIs, and scalable relational systems</i></p>
-
-  <!-- UNIFORM MINIMALIST SOCIAL PILLS -->
-  <a href="https://portfolio-nu-rust-eblzs4cxn4.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/rishikaraj724/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/u/Rishika_9661/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
-  </a>
-  <a href="mailto:rr4175653@gmail.com">
-    <img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </div>
 
 ---
